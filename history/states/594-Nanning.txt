@@ -1,0 +1,31 @@
+
+state={
+	id=594
+	name="STATE_594"
+	resources={
+		tungsten=11.000
+		steel=8.000
+		chromium=3.000
+	}
+
+	history={
+		owner = HIN
+		add_core_of = HIN
+		add_core_of = CHI
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 1
+
+		}
+		victory_points = {
+			7137 10 
+		}
+	}
+
+	provinces={
+		1018 1131 4023 7039 7137 7192 9963 10050 10105 11926 11983 12023 12077 
+	}
+	manpower=6550000
+	buildings_max_level_factor=1.000
+	state_category=town
+}

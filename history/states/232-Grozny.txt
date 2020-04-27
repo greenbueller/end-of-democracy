@@ -1,0 +1,28 @@
+
+state={
+	id=232
+	name="STATE_232"
+	resources={
+		oil=19.000
+	}
+
+	history={
+		owner = TER
+		buildings = {
+			infrastructure = 4
+
+		}
+		victory_points = {
+			3672 5 
+		}
+		add_core_of = TER
+
+	}
+
+	provinces={
+		666 670 683 700 712 728 1450 1455 1530 3667 3668 3672 3682 3711 4463 4534 6436 6689 6701 6702 6702 6730 6748 7554 7624 9626 9628 9632 9645 9647 11609 11614 11632 11690 11693 
+	}
+	manpower=1658292
+	buildings_max_level_factor=1.000
+	state_category=rural
+}

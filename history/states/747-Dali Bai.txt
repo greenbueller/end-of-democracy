@@ -1,0 +1,43 @@
+
+state={
+	id=747
+	name="STATE_747"
+
+	history={
+		owner = SIC
+		add_core_of = SIC
+		add_core_of = CHI
+		victory_points = {
+			7965 3 
+		}
+		buildings = {
+			infrastructure = 3
+
+		}
+		1938.10.25 = {
+			if = {
+				limit = {
+					NOT = {
+						has_dlc = Waking the Tiger
+
+					}
+
+				}
+				CHI = {
+					transfer_state = PREV
+
+				}
+
+			}
+
+		}
+
+	}
+
+	provinces={
+		1319 4559 4937 7965 7976 8023 8126 10863 12789 12898 
+	}
+	manpower=1000000
+	buildings_max_level_factor=1.000
+	state_category=pastoral
+}

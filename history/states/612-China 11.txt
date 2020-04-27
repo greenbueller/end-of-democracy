@@ -1,0 +1,23 @@
+
+state={
+	id=612
+	name="STATE_612"
+
+	history={
+		owner = QNG
+		add_core_of = QNG
+		add_core_of = CHI
+		buildings = {
+			infrastructure = 1
+
+		}
+
+	}
+
+	provinces={
+		1551 1608 1796 4222 4873 10372 12331 12448 
+	}
+	manpower=566000
+	buildings_max_level_factor=1.000
+	state_category=rural
+}

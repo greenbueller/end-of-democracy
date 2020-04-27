@@ -1,0 +1,25 @@
+
+state={
+	id=402
+	name="STATE_402"
+	resources={
+		chromium=15.000
+	}
+
+	history={
+		owner = RUS
+		buildings = {
+			infrastructure = 3
+
+		}
+		add_core_of = RUS
+
+	}
+
+	provinces={
+		4300 7243 7337 7354 10164 
+	}
+	manpower=282245
+	buildings_max_level_factor=1.000
+	state_category=rural
+}

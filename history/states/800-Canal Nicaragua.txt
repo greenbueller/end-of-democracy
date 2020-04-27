@@ -1,0 +1,24 @@
+state = {
+	id = 802
+	name = "STATE_802"
+
+	history={
+		owner = GER
+		buildings = {
+			infrastructure = 4
+			air_base = 1
+
+		}
+		add_core_of = GER
+		victory_points = {
+			12738 3 
+		}
+
+	}
+
+	provinces={
+		13234 13235 13236 13237 13238
+	}
+	manpower=84500
+	state_category=enclave
+}

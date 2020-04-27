@@ -1,0 +1,29 @@
+state = {
+	id = 799
+	name="STATE_799"
+	manpower = 29800
+	
+	state_category = town
+	
+	
+	history = {
+		owner = GER
+		buildings = {
+			infrastructure = 4
+			12049 = {
+				naval_base = 2
+			}
+		}
+		add_core_of = GER
+		victory_points = {
+			12049 5
+		}
+		victory_points = {
+			4073 3
+		}
+	}
+
+	provinces={
+		1155 4073 9947 12049
+	}
+}

@@ -1,0 +1,26 @@
+state={
+	id=806
+	name="STATE_806"
+
+	history={
+		owner = JAP
+		buildings = {
+			infrastructure = 6
+			dockyard = 2
+			air_base = 2
+			9671 = {
+				naval_base = 4
+			}
+		}
+		add_core_of = JAP
+		victory_points = {
+			9671 25 
+		}
+	}
+
+	provinces={
+		677 3678 9671 11658
+	}
+	manpower=1085400
+	state_category=metropolis
+}

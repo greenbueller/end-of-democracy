@@ -1,0 +1,29 @@
+
+state={
+	id=805
+	name="STATE_805"
+	resources={
+		oil=2.000
+	}
+
+	history={
+		owner = MEX
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 1
+
+		}
+		add_core_of = MEX
+		victory_points = {
+			853 3 
+		}
+
+	}
+
+	provinces={
+		823 853 1562 1793 3834 4727 7517 7747 7986 8115 10783 11757 11795 12303 12374 
+	}
+	manpower=435572
+	buildings_max_level_factor=1.000
+	state_category=rural
+}
