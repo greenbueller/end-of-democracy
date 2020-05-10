@@ -1,0 +1,26 @@
+
+state={
+	id=812
+	name="STATE_812"
+
+	history={
+		owner = GBA
+		buildings = {
+			infrastructure = 7
+			industrial_complex = 2
+			air_base = 1
+		}
+		add_core_of = GBA
+
+    victory_points = {
+      4799 30
+    }
+	}
+
+	provinces={
+		850 4521 4799 4816 7879 11814 12399 12425 12699
+	}
+	manpower=2084560
+	buildings_max_level_factor=1.000
+	state_category=large_city
+}

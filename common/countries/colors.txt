@@ -854,3 +854,133 @@ CAU = {
 	color = rgb { 87 55 119 }
 	color_ui = rgb { 87 55 119 }
 }
+
+CAL = {
+	color = rgb { 197 42 78 }
+	color_ui = rgb { 197 42 78 }
+}
+
+SAC = {
+	color = rgb { 82 174 182 }
+	color_ui = rgb { 82 174 182 }
+}
+
+GBA = {
+	color = rgb { 123 104 180 }
+	color_ui = rgb { 123 104 180 }
+}
+
+NAV = {
+	color = rgb { 176 146 94 }
+	color_ui = rgb { 176 146 94 }
+}
+
+YEL = {
+	color = rgb { 146 95 45 }
+	color_ui = rgb { 146 95 45 }
+}
+
+RID = {
+	color = rgb { 123 158 89 }
+	color_ui = rgb { 123 158 89 }
+}
+
+GPR = {
+	color = rgb { 68 98 111 }
+	color_ui = rgb { 68 98 111 }
+}
+
+OKL = {
+	color = rgb { 46 37 50 }
+	color_ui = rgb { 46 37 50 }
+}
+
+HOU = {
+	color = rgb { 63 83 132 }
+	color_ui = rgb { 63 83 132 }
+}
+
+LOU = {
+	color = rgb { 189 55 100 }
+	color_ui = rgb { 189 55 100 }
+}
+
+MIS = {
+	color = rgb { 92 79 66 }
+	color_ui = rgb { 92 79 66 }
+}
+
+FFS = {
+	color = rgb { 26 81 87 }
+	color_ui = rgb { 26 81 87 }
+}
+
+NCA = {
+	color = rgb { 92 89 110 }
+	color_ui = rgb { 92 89 110 }
+}
+
+ALP = {
+	color = rgb { 73 176 137 }
+	color_ui = rgb { 73 176 137 }
+}
+
+GVR = {
+	color = rgb { 123 39 165 }
+	color_ui = rgb { 123 39 165 }
+}
+
+ERE = {
+	color = rgb { 210 212 70 }
+	color_ui = rgb { 210 212 70 }
+}
+
+PEN = {
+	color = rgb { 181 109 22 }
+	color_ui = rgb { 181 109 22 }
+}
+
+NEY = {
+	color = rgb { 96 122 152 }
+	color_ui = rgb { 96 122 152 }
+}
+
+NEE = {
+	color = rgb { 46 90 23 }
+	color_ui = rgb { 46 90 23 }
+}
+
+DET = {
+	color = rgb { 161 144 217 }
+	color_ui = rgb { 161 144 217 }
+}
+
+LAN = {
+	color = rgb { 86 146 64 }
+	color_ui = rgb { 86 146 64 }
+}
+
+DGL = {
+	color = rgb { 169 122 164 }
+	color_ui = rgb { 169 122 164 }
+}
+
+ASO = {
+	color = rgb { 210 103 54 }
+	color_ui = rgb { 210 103 54 }
+}
+
+SLU = {
+	color = rgb { 154 134 114 }
+	color_ui = rgb { 154 134 114 }
+}
+
+PRT = {
+	color = rgb { 63 111 174 }
+	color_ui = rgb { 63 111 174 }
+}
+
+ROC = {
+	color = rgb { 210 173 54 }
+	color_ui = rgb { 210 173 54 }
+}

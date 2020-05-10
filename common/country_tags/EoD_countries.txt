@@ -35,33 +35,34 @@ FSC = "countries/Free Slavic Commune.txt" ##
 
 # North America #
 
-#CAN = "countries/Canada.txt"
-NEE = "countries/New England.txt" ##
-NEY = "countries/New York.txt" ##
-PEN = "countries/Pennsylvania.txt" ##
-ERI = "countries/Erie.txt" ##
-DET = "countries/Detroit.txt" ##
-LAN = "countries/Lansig.txt" ##
-DGL = "countries/Great Lakes.txt" ##
-#MEX = "countries/Mexico.txt"
-CAL = "countries/California.txt" ##
-GBA = "countries/Great Basin.txt" ##
-SAC = "countries/Sacramento.txt" ##
-YEL = "countries/Yellowstone.txt" ##
-MIS = "countries/Mississippi.txt" ##
-GPR = "countries/Great Plains.txt" ##
-SLU = "countries/Saint Louis Union.txt" ##
-ASO = "countries/Ohio.txt" ##
-ALP = "countries/Alpina.txt" ##
-HOU = "countries/Houston.txt" ##
-LOU = "countries/Louisiana.txt" ##
-NCA = "countries/New Confederation of America.txt" ##
-FFS = "countries/Florida Free State.txt" ##
-GVR = "countries/Great Virginia.txt" ##
-PRT = "countries/Portland.txt" ##
-OKL = "countries/Oklahoma.txt" ##
-NAV = "countries/Navajo.txt" ##
-RID = "countries/Ridge.txt" ##
+#CAN = "countries/Canada.txt" #
+NEE = "countries/New England.txt" ## #
+NEY = "countries/New York.txt" ## #
+PEN = "countries/Pennsylvania.txt" ## #
+ERE = "countries/Erie.txt" ## #
+DET = "countries/Detroit.txt" ## #
+LAN = "countries/Lansig.txt" ## #
+DGL = "countries/Great Lakes.txt" ## #
+#MEX = "countries/Mexico.txt" #
+CAL = "countries/California.txt" ## #
+GBA = "countries/Great Basin.txt" ## #
+SAC = "countries/Sacramento.txt" ## #
+YEL = "countries/Yellowstone.txt" ## #
+MIS = "countries/Mississippi.txt" ## #
+GPR = "countries/Great Plains.txt" ## #
+SLU = "countries/Saint Louis Union.txt" ## #
+ASO = "countries/Ohio.txt" ## #
+ALP = "countries/Alpina.txt" ## #
+HOU = "countries/Houston.txt" ## #
+LOU = "countries/Louisiana.txt" ## #
+NCA = "countries/New Confederation of America.txt" ## #
+FFS = "countries/Florida Free State.txt" ## #
+GVR = "countries/Great Virginia.txt" ## #
+PRT = "countries/Portland.txt" ## #
+OKL = "countries/Oklahoma.txt" ## #
+NAV = "countries/Navajo.txt" ## #
+RID = "countries/Ridge.txt" ## #
+ROC = "countries/Rochester.txt" ##
 
 # South America #
 

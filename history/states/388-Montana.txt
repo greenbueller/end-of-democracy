@@ -7,20 +7,20 @@ state={
 	}
 
 	history={
-		owner = USA
+		owner = RID
 		buildings = {
 			infrastructure = 4
 
 		}
-		add_core_of = USA
+		add_core_of = RID
 		victory_points = {
-			4860 1 
+			4860 1
 		}
 
 	}
 
 	provinces={
-		1736 1767 1851 4741 4857 4860 6742 7760 7779 7880 10587 10706 12572 12585 
+		1767 7760 7880 10587 10706
 	}
 	manpower=537605
 	buildings_max_level_factor=1.000

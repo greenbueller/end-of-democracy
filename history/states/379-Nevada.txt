@@ -9,17 +9,17 @@ state={
 	}
 
 	history={
-		owner = USA
+		owner = GBA
 		buildings = {
 			infrastructure = 4
 
 		}
-		add_core_of = USA
+		add_core_of = GBA
 
 	}
 
 	provinces={
-		1862 4521 4799 4816 7756 7827 7879 10591 12399 12425 
+		1663 4865 7756 7827 10582 10591 10651 10662 12573 
 	}
 	manpower=91057
 	buildings_max_level_factor=1.000

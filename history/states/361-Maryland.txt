@@ -2,17 +2,14 @@
 state={
 	id=361
 	name="STATE_361"
-	manpower = 2118394
-	
-	state_category = city
 
 	history={
-		owner = USA
+		owner = PEN
 		victory_points = {
-			3957 40 
+			3957 40
 		}
 		victory_points = {
-			6984 5 
+			6984 5
 		}
 		buildings = {
 			infrastructure = 7
@@ -27,12 +24,16 @@ state={
 				naval_base = 1
 
 			}
+
 		}
-		add_core_of = USA
+		add_core_of = PEN
 
 	}
 
 	provinces={
-		3957 6823 6892 6929 6984 9758 9786 11892 
+		873 951 3917 3957 6823 6892 6929 6958 6984 9758 9786 9923 11873 11888 11892
 	}
+	manpower=2118394
+	buildings_max_level_factor=1.000
+	state_category=city
 }

@@ -9,22 +9,22 @@ state={
 	}
 
 	history={
-		owner = USA
+		owner = NAV
 		buildings = {
 			infrastructure = 4
 			industrial_complex = 1
 			air_base = 2
 
 		}
-		add_core_of = USA
+		add_core_of = NAV
 		victory_points = {
-			853 3 
+			853 3
 		}
 
 	}
 
 	provinces={
-		850 6897 7821 10573 11814 12765 
+		1740 1972 4975 6897 7684 7764 7818 7821 7999 9792 10573 10645 12552 12765
 	}
 	manpower=435572
 	buildings_max_level_factor=1.000

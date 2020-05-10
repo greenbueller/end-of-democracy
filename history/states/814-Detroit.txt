@@ -1,0 +1,21 @@
+state = {
+	id = 814
+	name = "STATE_814"
+
+	history={
+		owner = DET
+		buildings = {
+			infrastructure = 8
+		}
+		add_core_of = DET
+		victory_points = {
+			6710 20
+		}
+	}
+
+	provinces={
+		6710
+	}
+	manpower=4842323
+	state_category=metropolis
+}

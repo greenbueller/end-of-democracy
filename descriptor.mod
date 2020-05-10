@@ -4,4 +4,4 @@ tags={
 	"Map"
 }
 name="The End of Democracy"
-supported_version="1.9.1"
+supported_version="1.9.*"

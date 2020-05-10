@@ -3,18 +3,17 @@ state={
 	id=387
 	name="STATE_387"
 	resources={
-		steel=18.000
-		chromium=1.000
+		steel=6.000
 		tungsten=18.000
 	}
 
 	history={
-		owner = USA
+		owner = YEL
 		buildings = {
 			infrastructure = 4
 
 		}
-		add_core_of = USA
+		add_core_of = YEL
 		victory_points = {
 			9616 1 
 		}
@@ -22,7 +21,7 @@ state={
 	}
 
 	provinces={
-		1789 7845 9616 9695 10556 10602 10672 12535 12607 
+		1736 6742 7779 7845 9616 10602 10672 
 	}
 	manpower=445031
 	buildings_max_level_factor=1.000

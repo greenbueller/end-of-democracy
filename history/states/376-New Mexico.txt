@@ -8,21 +8,21 @@ state={
 	}
 
 	history={
-		owner = USA
+		owner = OKL
 		buildings = {
 			infrastructure = 4
 			industrial_complex = 1
 
 		}
-		add_core_of = USA
+		add_core_of = OKL
 		victory_points = {
-			4975 1 
+			4975 1
 		}
 
 	}
 
 	provinces={
-		1972 2102 4975 10642 10645 10867 12552 12684 
+		2055 2102 3972 9908 10642 10867 12624 12684 12848 12893
 	}
 	manpower=423316
 	buildings_max_level_factor=1.000

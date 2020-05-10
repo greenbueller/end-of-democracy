@@ -2,16 +2,12 @@
 state={
 	id=371
 	name="STATE_371"
-	manpower = 2101592
-	
-	state_category = city
-	
 	resources={
-		oil=44 # was: 66
+		oil=44.000
 	}
 
 	history={
-		owner = USA
+		owner = LOU
 		buildings = {
 			infrastructure = 5
 			industrial_complex = 2
@@ -20,15 +16,19 @@ state={
 				naval_base = 5
 
 			}
+
 		}
-		add_core_of = USA
+		add_core_of = LOU
 		victory_points = {
-			7552 10 
+			7552 10
 		}
 
 	}
 
 	provinces={
-		1453 1528 1559 1643 4507 4522 4535 7524 7552 7555 7599 12313 12398 12401 
+		1503 1528 1559 1618 1643 4507 4510 4522 5001 6803 7485 7543 7555 7599 7945 10355 10410 12313 12328 12401 12458 12489 12778
 	}
+	manpower=2101592
+	buildings_max_level_factor=1.000
+	state_category=city
 }
